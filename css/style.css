@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Big+Shoulders+Display:wght@900&family=Epilogue:wght@700&family=Josefin+Sans:wght@300&family=Jost:wght@400;500;700&family=Nunito+Sans:wght@400;600;800&family=Outfit:wght@300&family=Plus+Jakarta+Sans:wght@500;700&family=Poppins:wght@500&family=Space+Grotesk:wght@500;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+}
+.container{
+    width: 100%;
+}
+.wrapper{
+    margin: 0 auto;
+    width: 100%;
+    padding: 0px 165px;
+}
+body{
+    background: rgb(17, 14, 14);
+    color:white;
+}
+.start{
+   width: 100%;
+}
+nav{
+    display: inline-block;
+display: flex;
+align-items: center;
+justify-content: center;
+justify-content: space-between;
+
+}
+.img img{
+    width: 445px;
+    height: 720px;
+    margin-left: 760px;
+    margin-top: -30px;
+}
+.icons{
+    display: flex;
+    gap:30px;
+    position: relative;
+    padding-left: -30px;
+}
+h1{
+    
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+    letter-spacing: -0.444444px;
+    color: #FFFFFF;
+}
+.header-txt{
+    margin-top: -600px;
+
+}
+ .header-txt h2{
+    display: inline-block;
+    font-weight: 700;
+    font-size: 88px;
+    line-height: 88px;
+    letter-spacing: -2.5px;
+    color: #FFFFFF;
+    
+}
+.header-txt h3{
+    font-weight: 700;
+    font-size: 88px;
+    line-height: 88px;
+    letter-spacing: -2.5px;
+    color: #FFFFFF;
+   
+}
+.lin{
+    width: 492px;
+    height: 6px;
+    background: #4EE1A0;
+    margin-left: 130px;
+  }
+.header-txt p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #D9D9D9;
+    margin-top: 43px;
+
+}
+.header-txt h4{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 2.28571px;
+    color: #FFFFFF;
+    margin-top: 66px;
+    
+}
+.lins{
+    width: 120px;
+    height: 2px;
+    background: #4EE1A0;
+    margin-top: 10px;
+   
+}
+.lin-end{
+    width: 100%;
+    height: 1px;
+    background: #FFFFFF;
+    margin-top: 300px;
+}
+.ability-info{
+    padding: 0px 165px;   
+    gap: 250px;
+}
+.ability-info h6{
+    font-weight: 700;
+font-size: 48px;
+line-height: 56px;
+letter-spacing: -1.5px;
+color: #FFFFFF;
+
+}
+.ability-info p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #a09595;
+}
+.ability-info .first{
+    display: flex;
+    margin-top: 72px;
+}
+.ability-info .second{
+    display: flex;
+    margin-top: 58px;
+}.html{
+    margin-right: 251px;
+}
+.css{
+    margin-right: 293px;
+}.accessibility{
+    margin-right: 115px;
+}
+.react{
+    margin-right: 295px;
+}
+.project{
+    margin-top: 140px;  
+    padding-bottom: 180px;  
+}
+.pro-nav{
+    display: flex;
+    justify-content: space-between;
+}
+.pro-nav h2{
+    font-weight: 700;
+    font-size: 88px;
+    line-height: 88px;
+    letter-spacing: -2.5px;
+    color: #FFFFFF;
+}
+.pro-nav .cont{
+   margin-top: 30px;
+}
+.first-part{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 80px;
+}
+.first-part p{
+    color: #a9a0a0;
+}
+.first-part h4{
+    margin-top: 20px;
+    padding-bottom: 7px;
+}
+.second-part{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 69px;
+}
+.second-part p{
+    color: #a9a0a0;
+}
+.second-part h4{
+    margin-top: 20px;
+    padding-bottom: 7px;
+}
+.third-part{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 69px;
+}
+.third-part p{
+    color: #a9a0a0;
+}
+.third-part h4{
+    margin-top: 20px;
+    padding-bottom: 7px;
+}
+footer{
+    width: 100%;
+    background:#242424;
+    padding: 84px 195px;
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+    width: 1110px;
+    height: 327px;
+
+}
+.contact h6{
+    font-weight: 700;
+    font-size: 88px;
+    line-height: 88px;
+    letter-spacing: -2.5px;
+    color: #FFFFFF;
+    padding-bottom: 36px;
+}
+.contact p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #D9D9D9;
+
+}
+input{
+    width: 445px;
+    background: transparent;
+    margin-bottom: 30px;
+}
+.footer-end{
+    width: 1110px;
+}
+.liner{
+    width: 100%;
+    height: 1px;
+    background: #FFFFFF;
+}
+.footer-end nav{
+    margin-top: 47px;
+}
+.input span{
+   padding-top: -100px;
+}
